@@ -3,6 +3,7 @@ package com.school;
 import java.util.ArrayList;
 import java.util.List;
 
+//This is Utility Class
 public class SchoolManagementSystem{
     private List<Student> students;
     private List<Teacher> teachers;
